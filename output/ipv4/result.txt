@@ -1,18 +1,12 @@
 🕘️更新时间,#genre#
-2025-10-21 06:23:30,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+2025-10-21 18:24:13,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 
 📺央视频道,#genre#
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV-2,http://111.43.126.240:7777/hls/35/index.m3u8
+CETV-1,https://httop.top/tv-cetv1
+CETV-1,http://113.88.211.3:9898/hls/67/index.m3u8
 CETV-2,http://ygbh.site/php/bfgd.php?id=492
-CETV-2,http://223.167.245.215:8001/rtp/239.45.1.52:5140
-CETV-2,http://183.220.20.17:4321/rtp/239.11.0.246:5140
-CETV-2,http://117.174.25.254:8188/rtp/239.0.0.196:5140
-CETV-2,http://113.106.171.234:8899/rtp/239.21.0.46:3524
-CETV-2,http://223.167.230.34:4022/rtp/239.45.1.52:5140
-CETV-2,http://113.56.95.223:8889/rtp/228.0.0.198:7198
-CETV-2,http://123.174.106.183:8888/rtp/239.1.1.66:8066
+CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761182294-bc27fb5abbe54f2505a92010c5520e99-0-feaaffd75df09facc8a83c92673e2068
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 💰央视付费频道,#genre#
@@ -23,16 +17,20 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
+风云音乐,http://183.21.68.176:3388/hls/29/index.m3u8
 风云音乐,http://218.8.87.96:4000/rtp/229.58.190.190:5000
+第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://183.21.68.176:3388/hls/21/index.m3u8
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
 第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
 第一剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226961/86128891.smil
 第一剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=gf001&userid=gf001
 第一剧场,http://218.8.87.96:4000/rtp/229.58.190.21:5000
-风云剧场,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
 风云剧场,http://sh.lnott.top:880/dx94.m3u8
+风云剧场,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
+风云剧场,http://183.21.68.176:3388/hls/20/index.m3u8
 风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
 风云剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
 风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
@@ -71,9 +69,11 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760876105&sign=a477cc462a76be885dab5120dc9b2c47
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 
 ☘️重庆频道,#genre#
+璧山综合,http://222.179.42.129:8181/hls1.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
@@ -87,8 +87,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
