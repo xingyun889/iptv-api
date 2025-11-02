@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/xingyun889/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-02 18:21:31
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-03 06:21:33
 https://jzb.wwkejishe.top/?id=579
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://jzb.wwkejishe.top/?id=579
@@ -27,8 +27,6 @@ https://www.freetv.top/migu/667987558.m3u8?migutoken=b64f3a361e8074b39bbbad35bdf
 https://jzb.wwkejishe.top/?id=589
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://www.freetv.top/migu/673168185.m3u8?migutoken=2c8ff357aa2421f58bdbe7599a401e91b4e82c915fb4cdc01b7b5958d324557b8fe0b9dfc2848124c14b3c90fbeeaaec9a973e08efe51011771d0fbfcdfb36bbb23ba40211547f349c501b6997
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://www.freetv.top/migu/608807423.m3u8?migutoken=7a9f631c12e3f260a1be234f09172421b9cb241df766874aae8a36485a148b231acfe7a255db39c6e6affcb6015c80f4607fcc3301cfb28d121090c6eef969c85d1a23a3a6e649c0557dda6ae3
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13

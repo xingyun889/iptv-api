@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-02 18:21:31,https://jzb.wwkejishe.top/?id=579
+2025-11-03 06:21:33,https://jzb.wwkejishe.top/?id=579
 
 📺央视频道,#genre#
 CCTV-2,https://jzb.wwkejishe.top/?id=579
@@ -15,7 +15,6 @@ CCTV-10,https://jzb.wwkejishe.top/?id=588
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=b64f3a361e8074b39bbbad35bdf17e43f722bcfa61647fe1ac137ea76cd90f034c1ab08fffb962f33c8dbe34b78847898aa262bf4eb0da6bbe3ef3975c49ee67fa1049054ac575c70a5fe5836e
 CCTV-11,https://jzb.wwkejishe.top/?id=589
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=2c8ff357aa2421f58bdbe7599a401e91b4e82c915fb4cdc01b7b5958d324557b8fe0b9dfc2848124c14b3c90fbeeaaec9a973e08efe51011771d0fbfcdfb36bbb23ba40211547f349c501b6997
-CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=7a9f631c12e3f260a1be234f09172421b9cb241df766874aae8a36485a148b231acfe7a255db39c6e6affcb6015c80f4607fcc3301cfb28d121090c6eef969c85d1a23a3a6e649c0557dda6ae3
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
