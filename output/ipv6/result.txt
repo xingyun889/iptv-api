@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-17 06:16:54,https://live.chinacert.cftest5.cn/mg/?id=608807419
+2025-11-17 18:32:16,https://www.freetv.top/migu/673168140.m3u8?migutoken=21079ccc296663c0852d7aa559706185d47321c401459ef6e4d341547dda558accb1b561b9935ba84cc9506d0ad03b0489b131d25c50278952093cf2b5b7913fb43c8c0effa57085fdad555379
 
 📺央视频道,#genre#
-CCTV-4,https://live.chinacert.cftest5.cn/mg/?id=608807419
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=21079ccc296663c0852d7aa559706185d47321c401459ef6e4d341547dda558accb1b561b9935ba84cc9506d0ad03b0489b131d25c50278952093cf2b5b7913fb43c8c0effa57085fdad555379
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=1d0a7c51349d0d29392d62f5685c0adeccb58bc9a3ffea11a91caa97486b3676f1419283c7373cda120fc07d90d911e4191c58663b10666354a5140046e37437b3dfa6cb78242873fb16b97565
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=a099c4781935e65ce141b770794c3b43ae66c9cff99a441ab85b8a676ceb9472ea0e60b610403e97c019904f7c814c2524dc1f8f884664706b7b5a1ce4fd076c7f8c776c9d73f4a0fc12b259f3
@@ -21,13 +20,14 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 ☘️重庆频道,#genre#
 
 🌊港·澳·台,#genre#
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
