@@ -1,33 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-19 18:28:37,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-20 06:27:35,http://bxtv.3a.ink/migu.php?id=cctv17
 
 📺央视频道,#genre#
-CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
-CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
-CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
-CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
-CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
-CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5
-CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
-CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
-CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
-CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
-CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
-CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
-CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
-CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
-CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
-CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
-CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
-CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
-CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
-CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
 CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
-CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 CETV-2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV-2,http://111.43.126.240:7777/hls/35/index.m3u8
 CETV-2,http://117.174.25.254:8188/rtp/239.0.0.196:5140
@@ -48,6 +25,11 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,http://sh.lnott.top:880/dx73.m3u8
+风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
@@ -100,10 +82,12 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 ☘️重庆频道,#genre#
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 重庆汽摩,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
-重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001
+重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284
 万州综合,http://live.xmcdn.com/live/1678/64.m3u8
 万州三峡移民,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8?zzhongqd
