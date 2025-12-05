@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-05 06:23:40,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
+2025-12-05 18:27:59,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 
 📺央视频道,#genre#
 CCTV-1,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
@@ -12,33 +12,31 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 CETV-1,http://221.205.180.120:8004/rtp/226.0.2.181:9360
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
-CETV-1,http://116.179.130.16:6001/rtp/226.0.2.181:9360
 CETV-2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV-2,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8
 CETV-2,http://111.43.126.240:7777/hls/35/index.m3u8
 CETV-2,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/.m3u8
-CETV-2,http://183.220.20.17:4321/rtp/239.11.0.246:5140
 CETV-2,http://144.255.32.94:8288/rtp/239.21.2.8:5002
+CETV-2,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8
 CETV-2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 CETV-2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
 CETV-2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
 CETV-2,rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
+CETV-2,http://ygbh.site/php/bfgd.php?id=492
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 CETV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV-4,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/.m3u8
-CETV-4,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8
 CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV-4,http://tnvcn.com:8012/rtp/239.3.1.56:4120
+CETV-4,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8
 CETV-4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV-4,rtsp://180.95.143.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV-4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV-4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV-4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
+CETV-4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 💰央视付费频道,#genre#
-文化精品,http://221.205.180.120:8004/rtp/226.0.2.219:9664
 文化精品,http://171.125.90.120:6001/rtp/226.0.2.219:9664
-文化精品,http://116.179.130.16:6001/rtp/226.0.2.219:9664
+文化精品,http://221.205.180.120:8004/rtp/226.0.2.219:9664
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
 央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
@@ -47,7 +45,6 @@ CETV-4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/100001000000000600000000
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,http://171.125.90.120:6001/rtp/226.0.2.220:9672
-风云音乐,http://116.179.130.16:6001/rtp/226.0.2.220:9672
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
@@ -55,9 +52,15 @@ CETV-4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/100001000000000600000000
 女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://221.205.180.120:8004/rtp/226.0.2.223:9696
-兵器科技,http://116.179.130.16:6001/rtp/226.0.2.223:9696
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
 📡卫视频道,#genre#
@@ -69,6 +72,7 @@ CETV-4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/100001000000000600000000
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 
 ☘️重庆频道,#genre#
+璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
