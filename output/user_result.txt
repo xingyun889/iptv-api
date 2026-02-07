@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-07 06:19:24,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-07 18:22:26,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -10,6 +10,7 @@ CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV-5%2B
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fbf45e2b1ba9da1b745ea6e76a6dd4c4
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
@@ -51,11 +52,11 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
@@ -68,37 +69,40 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
 ☘️重庆频道,#genre#
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
+重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001
+重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284
 重庆新闻,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
-明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
 纬来育乐,rtmp://60.248.77.83/sat/tv701
+纬来育乐,http://43.251.226.89:8080/play/1261.m3u8
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
