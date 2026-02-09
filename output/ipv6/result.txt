@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-09 18:54:19,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-02-10 06:32:06,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -15,8 +15,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
