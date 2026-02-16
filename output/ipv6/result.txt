@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-16 06:21:33,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
+2026-02-16 18:47:29,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
 
 📺央视频道,#genre#
 CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
@@ -7,12 +7,11 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
+央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
 风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 第一剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.18:6079
 风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
-怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
-女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 世界地理,http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
 
 📡卫视频道,#genre#
@@ -24,7 +23,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
