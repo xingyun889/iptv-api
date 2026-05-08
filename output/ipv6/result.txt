@@ -1,24 +1,20 @@
 🕘️更新时间,#genre#
-2026-05-08 19:19:56,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-05-09 06:53:40,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
-怀旧剧场,https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
 
 📡卫视频道,#genre#
 
 ☘️重庆频道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,http://r.jdshipin.com/thuYX
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
