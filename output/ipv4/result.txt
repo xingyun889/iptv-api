@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-06-18 07:22:20,http://198.204.228.26/live/cctv1hd.m3u8
+2026-06-18 21:23:03,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
-CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
+CCTV-1,http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=7
 CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8
@@ -13,11 +14,12 @@ CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=11
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=3
 CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8&line=10
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=3
+CCTV-9,http://223.75.149.129:9906/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=3
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=7
 CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
-CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=7
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=8
 CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=13
@@ -27,9 +29,9 @@ CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=2
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=6
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-2,https://iptv.catvod.com/live.php?id=CETV2&line=1
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 💰央视付费频道,#genre#
@@ -37,22 +39,18 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
 第一剧场,http://120.198.95.220:9901/tsfile/live/1071_1.m3u8?key=txiptv
+风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=fb9584fe15e1e0bb2a733656352904fe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+风云剧场,http://107.150.60.122/live/fyjc.m3u8
 风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
-风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
-风云剧场,http://107.150.60.122/live/fyjc.m3u8
-风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
-风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
-风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=fb9584fe15e1e0bb2a733656352904fe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-风云剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
 怀旧剧场,http://107.150.60.122/live/hjjc.m3u8
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 世界地理,http://192.151.150.154/live/sjdl.m3u8
 兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
@@ -64,12 +62,12 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
-北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8
+北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=3
@@ -78,8 +76,11 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
 甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=3
 贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&line=3
+贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
+贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=5
+河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=4
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
@@ -88,15 +89,18 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=3
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
+山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=3
+四川卫视,http://192.151.150.154/live/scwshd.m3u8
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=2
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=2
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=3
 
 ☘️重庆频道,#genre#
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -117,7 +121,6 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
-无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
 靖天资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5055
 靖天资讯,http://nmk.ioapk.com:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
