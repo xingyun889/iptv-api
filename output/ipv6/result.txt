@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-07-02 20:08:39,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-07-03 07:04:02,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
-第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
 
 📡卫视频道,#genre#
 
@@ -14,8 +14,9 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 🌊港·澳·台,#genre#
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
