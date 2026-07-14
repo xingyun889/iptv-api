@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2026-07-14 07:02:12,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-07-14 19:30:30,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
-第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
+风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
 
