@@ -1,20 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-24 19:48:30,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+2026-07-25 07:06:04,https://live.chinacert.cftest5.cn/cnmg/live/631780421
 
 📺央视频道,#genre#
-CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
-CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
-CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
-CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
-CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
-CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
-CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
-CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
-CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
+CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
-CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
-CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 
 💰央视付费频道,#genre#
 
@@ -23,7 +12,6 @@ CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 ☘️重庆频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
