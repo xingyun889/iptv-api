@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-25 07:06:04,https://live.chinacert.cftest5.cn/cnmg/live/631780421
+2026-07-25 19:13:52,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
-CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
