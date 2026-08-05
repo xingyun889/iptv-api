@@ -1,14 +1,11 @@
 🕘️更新时间,#genre#
-2026-08-05 20:02:30,http://39.77.159.145:4002/rtp/239.253.254.192:8000
+2026-08-06 07:02:15,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 
 📺央视频道,#genre#
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
-CCTV-7,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
-CCTV-9,http://221.7.175.154:8445/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-13,http://111.4.59.41:60901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
@@ -17,26 +14,24 @@ CETV-2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&vi
 CETV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv2
 CETV-2,http://198.204.228.26/live/cetv2.m3u8
 CETV-2,http://204.12.221.218:8181/3m1080p/cetv2.m3u8
-CETV-2,http://120.76.248.139/live/bfgd/4200000492.m3u8
 CETV-2,http://183.220.20.17:4321/rtp/239.11.0.246:5140
-CETV-2,http://tnvcn.com:8012/rtp/239.3.1.54:4120
 CETV-2,http://183.220.107.138:4022/rtp/239.11.0.246:5140
+CETV-2,http://tnvcn.com:8012/rtp/239.3.1.54:4120
 CETV-2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 CETV-2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
-CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 💰央视付费频道,#genre#
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
+央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-风云音乐,http://107.150.60.122/live/fyyy.m3u8
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 第一剧场,http://207.56.13.146:81/cdnlive/dyjc.m3u8
@@ -45,22 +40,25 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
 女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
 高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140
-风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+电视指南,http://45.192.97.170:8880/play/2138.m3u8
+电视指南,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.87:10162
+电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://139.215.98.88/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
+电视指南,rtsp://222.161.218.244:554/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-世界地理,http://107.150.60.122/live/sjdl.m3u8
-世界地理,http://192.151.150.154/live/sjdl.m3u8
-世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
@@ -69,7 +67,6 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-四川卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.29:8288
 
 ☘️重庆频道,#genre#
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
