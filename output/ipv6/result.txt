@@ -1,17 +1,12 @@
 🕘️更新时间,#genre#
-2026-08-13 19:13:24,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-08-14 06:46:57,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CETV-1,https://live.chinacert.cftest5.cn/cnmg/live/923287154
-CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
-CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 
 💰央视付费频道,#genre#
-第一剧场,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/chinamovie_iphone.m3u8
 
 📡卫视频道,#genre#
-东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810
 
 ☘️重庆频道,#genre#
 
