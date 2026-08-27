@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-08-26 18:38:47,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-08-27 10:58:39,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
-第一剧场,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8
 
 📡卫视频道,#genre#
 
